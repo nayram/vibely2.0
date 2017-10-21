@@ -4,10 +4,10 @@
       "id": 1,
       "name": "Liddell Fashion",
       "start_time":"3/10/2017 4:00PM",
-      "end_date":"once a year",
-      "category":"culture",
+      "end_date":"3/10/2017",
+      "category":"explore",
       "crun":"every week",
-      "subcategory":"",
+      "subcategory":"event",
       "info":"Fashion show",
       "active":true
     },
@@ -15,10 +15,10 @@
       "id": 2,
       "name": "Business All Night",
       "start_time":"27/10/2017 10:00PM",
-      "end_date":"once a year",
-      "category":"culture",
+      "end_date":"28/10/2017 10:00PMr",
+      "category":"explore",
       "crun":"every week",
-      "subcategory":"",
+      "subcategory":"event",
       "info":"the marketplace for Christ",
       "active":true
     },
@@ -26,10 +26,10 @@
       "id": 3,
       "name": "The Design Market",
       "start_time":"4/11/2017 10:00AM",
-      "end_date":"once a year",
+      "end_date":"5/11/2017 10:00AM",
       "category":"culture",
       "crun":"every week",
-      "subcategory":"",
+      "subcategory":"event",
       "info":"discover Africa's great designers",
       "active":true
     },
@@ -40,7 +40,7 @@
       "end_date":"27/10/2017 4:00PM",
       "category":"culture",
       "crun":"yearly",
-      "subcategory":"",
+      "subcategory":"event",
       "info":"breast cancer awareness",
       "active":true
     },
@@ -51,7 +51,7 @@
       "end_date":"28/10/2017 8:30PM",
       "category":"culture",
       "crun":"yearly",
-      "subcategory":"",
+      "subcategory":"art",
       "info":"breast cancer awareness",
       "active":true
     }
