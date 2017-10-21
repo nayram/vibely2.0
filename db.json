@@ -1,9 +1,104 @@
 {
-  "posts": [
+  "events": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Liddell Fashion",
+      "start_time":"3/10/2017 4:00PM",
+      "end_date":"once a year",
+      "category":"culture",
+      "crun":"every week",
+      "subcategory":"",
+      "info":"Fashion show",
+      "active":true
+    },
+    {
+      "id": 2,
+      "name": "Business All Night",
+      "start_time":"27/10/2017 10:00PM",
+      "end_date":"once a year",
+      "category":"culture",
+      "crun":"every week",
+      "subcategory":"",
+      "info":"the marketplace for Christ",
+      "active":true
+    },
+    {
+      "id": 3,
+      "name": "The Design Market",
+      "start_time":"4/11/2017 10:00AM",
+      "end_date":"once a year",
+      "category":"culture",
+      "crun":"every week",
+      "subcategory":"",
+      "info":"discover Africa's great designers",
+      "active":true
+    },
+    {
+      "id": 4,
+      "name": "Breast Cancer Screening",
+      "start_time":"27/10/2017 10:00AM",
+      "end_date":"27/10/2017 4:00PM",
+      "category":"culture",
+      "crun":"yearly",
+      "subcategory":"",
+      "info":"breast cancer awareness",
+      "active":true
+    },
+    {
+      "id": 5,
+      "name": "Deranged",
+      "start_time":"28/10/2017 6:30PM",
+      "end_date":"28/10/2017 8:30PM",
+      "category":"culture",
+      "crun":"yearly",
+      "subcategory":"",
+      "info":"breast cancer awareness",
+      "active":true
     }
+  ],
+  "contents":[
+    {
+      "id":1,
+      "name":"Liddell Fashion",
+      "info":"Fashion show",
+      "type":"picture",
+      "uri":"https://s3.us-east-2.amazonaws.com/vibely2.0/images/lidel_fashion_show.jpg",
+      "event":1,
+      "active":true
+
+    },
+    {
+      "id":2,
+      "name":"Business All Night",
+      "info":"the marketplace for Christ",
+      "type":"picture",
+      "uri":"https://s3.us-east-2.amazonaws.com/vibely2.0/images/Business_Allnight.jpg",
+      "event":2,
+      "active":true
+
+    },
+    {
+      "id":3,
+      "name":"The Design Market",
+      "info":"discover Africa's great designers",
+      "type":"picture",
+      "uri":"https://s3.us-east-2.amazonaws.com/vibely2.0/images/The+design_Market_+In_Accra.jpg",
+      "event":3,
+      "active":true
+
+    },
+    {
+      "id":4,
+      "name":"Deranged",
+      "info":"Deranged",
+      "type":"picture",
+      "uri":"https://s3.us-east-2.amazonaws.com/vibely2.0/images/Deranged_movie.jpg",
+      "event":4,
+      "active":true
+
+    }
+
+
   ],
   "profile": {
     "name": "typicode"
