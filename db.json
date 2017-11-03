@@ -54,7 +54,151 @@
       "subcategory":"art",
       "info":"breast cancer awareness",
       "active":true
+    },
+    {
+      "id": 6,
+      "name": "Greater Accra",
+      "start_time":"28/10/2017 6:30PM",
+      "end_date":"28/10/2017 8:30PM",
+      "category":"tour",
+      "crun":"yearly",
+      "subcategory":"art",
+      "info":"breast cancer awareness",
+      "active":true
+    },
+    {
+      "id": 7,
+      "name": "Volta Region",
+      "start_time":"28/10/2017 6:30PM",
+      "end_date":"28/10/2017 8:30PM",
+      "category":"tour",
+      "crun":"yearly",
+      "subcategory":"art",
+      "info":"breast cancer awareness",
+      "active":true
+    },
+    {
+      "id": 8,
+      "name": "Central Region",
+      "start_time":"28/10/2017 6:30PM",
+      "end_date":"28/10/2017 8:30PM",
+      "category":"tour",
+      "crun":"yearly",
+      "subcategory":"art",
+      "info":"breast cancer awareness",
+      "active":true
+    },
+    {
+      "id": 9,
+      "name": "Ashanti Region",
+      "start_time":"28/10/2017 6:30PM",
+      "end_date":"28/10/2017 8:30PM",
+      "category":"tour",
+      "crun":"yearly",
+      "subcategory":"art",
+      "info":"breast cancer awareness",
+      "active":true
+    },
+    {
+      "id": 10,
+      "name": "Restaurants",
+      "start_time":"28/10/2017 6:30PM",
+      "end_date":"28/10/2017 8:30PM",
+      "category":"food/accomodation",
+      "crun":"yearly",
+      "subcategory":"art",
+      "info":"breast cancer awareness",
+      "active":true
+    },
+    {
+      "id": 11,
+      "name": "Hotels",
+      "start_time":"28/10/2017 6:30PM",
+      "end_date":"28/10/2017 8:30PM",
+      "category":"food/accomodation",
+      "crun":"yearly",
+      "subcategory":"art",
+      "info":"breast cancer awareness",
+      "active":true
+    },
+    {
+      "id": 12,
+      "name": "Delivery Service",
+      "start_time":"28/10/2017 6:30PM",
+      "end_date":"28/10/2017 8:30PM",
+      "category":"food/accomodation",
+      "crun":"yearly",
+      "subcategory":"art",
+      "info":"breast cancer awareness",
+      "active":true
+    },
+    {
+      "id": 13,
+      "name": "Fashion",
+      "start_time":"28/10/2017 6:30PM",
+      "end_date":"28/10/2017 8:30PM",
+      "category":"visual",
+      "crun":"yearly",
+      "subcategory":"art",
+      "info":"breast cancer awareness",
+      "active":true
+    },
+    {
+      "id": 12,
+      "name": "Arts",
+      "start_time":"28/10/2017 6:30PM",
+      "end_date":"28/10/2017 8:30PM",
+      "category":"visual",
+      "crun":"yearly",
+      "subcategory":"art",
+      "info":"breast cancer awareness",
+      "active":true
+    },
+    {
+      "id": 12,
+      "name": "Movies",
+      "start_time":"28/10/2017 6:30PM",
+      "end_date":"28/10/2017 8:30PM",
+      "category":"visual",
+      "crun":"yearly",
+      "subcategory":"art",
+      "info":"breast cancer awareness",
+      "active":true
+    },
+    {
+      "id": 13,
+      "name": "Theatre",
+      "start_time":"28/10/2017 6:30PM",
+      "end_date":"28/10/2017 8:30PM",
+      "category":"visual",
+      "crun":"yearly",
+      "subcategory":"art",
+      "info":"breast cancer awareness",
+      "active":true
+    },
+    {
+      "id": 14,
+      "name": "Hiplife",
+      "start_time":"28/10/2017 6:30PM",
+      "end_date":"28/10/2017 8:30PM",
+      "category":"music",
+      "crun":"yearly",
+      "subcategory":"art",
+      "info":"breast cancer awareness",
+      "active":true
+    },
+    {
+      "id": 15,
+      "name": "Gospel",
+      "start_time":"28/10/2017 6:30PM",
+      "end_date":"28/10/2017 8:30PM",
+      "category":"music",
+      "crun":"yearly",
+      "subcategory":"art",
+      "info":"breast cancer awareness",
+      "active":true
     }
+
   ],
   "contents":[
     {
@@ -96,11 +240,70 @@
       "event":4,
       "active":true
 
+    },
+    {
+      "id":5,
+      "name":"Cape Coast Castle",
+      "info":"Forts & Castle",
+      "type":"picture",
+      "uri":"https://s3.us-east-2.amazonaws.com/vibely2.0/images/capecoast.jpg",
+      "event":8,
+      "active":true
+
+    },
+    {
+      "id":6,
+      "name":"Elmina Castle",
+      "info":"Forts & Castles",
+      "type":"picture",
+      "uri":"https://s3.us-east-2.amazonaws.com/vibely2.0/images/capecoast.jpg",
+      "event":8,
+      "active":true
+
+    },
+    {
+      "id":7,
+      "name":"Kakum National Park",
+      "info":"National Reserve",
+      "type":"picture",
+      "uri":"https://s3.us-east-2.amazonaws.com/vibely2.0/images/kakum.jpg",
+      "event":8,
+      "active":true
+
+    },
+    {
+      "id":8,
+      "name":"Kwame Nkrumah Mausoleum",
+      "info":"Forts & Castles",
+      "type":"picture",
+      "uri":"	https://s3.us-east-2.amazonaws.com/vibely2.0/images/kwamenkrumah.jpg",
+      "event":6,
+      "active":true
+
+    },
+    {
+      "id":9,
+      "name":"Flag Staff House",
+      "info":"National Reserve",
+      "type":"picture",
+      "uri":"https://s3.us-east-2.amazonaws.com/vibely2.0/images/Deranged_movie.jpg",
+      "event":6,
+      "active":true
+
+    },{
+      "id":10,
+      "name":"Manhyia Palace",
+      "info":"National Reserve",
+      "type":"picture",
+      "uri":"https://s3.us-east-2.amazonaws.com/vibely2.0/images/manhyia.jpg",
+      "event":8,
+      "active":true
+
     }
 
 
   ],
   "profile": {
-    "name": "typicode"
+    "name": "vibely2"
   }
 }
