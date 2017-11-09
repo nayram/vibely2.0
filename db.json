@@ -197,7 +197,8 @@
       "subcategory":"art",
       "info":"breast cancer awareness",
       "active":true
-    }
+    },
+
 
   ],
   "contents":[
@@ -299,7 +300,25 @@
       "event":8,
       "active":true
 
+    },{
+      "id":11,
+      "name":"Angela",
+      "info":"A hit song by Kuami Eugene",
+      "type":"audio",
+      "uri":"https://s3.us-east-2.amazonaws.com/vibely2.0/images/manhyia.jpg",
+      "event":14,
+      "active":true
+
+    },{
+      "id":12,
+      "name":"Alliance Francaise",
+      "info":"Best African Rapper Concert",
+      "type":"picture",
+      "uri":"https://s3.us-east-2.amazonaws.com/vibely2.0/images/IMG_20171108_073821+-+Ray+Nkum.jpg",
+      "event":6,
+      "active":true
     }
+
   ],
   "profile": {
     "name": "typicode"
