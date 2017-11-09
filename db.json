@@ -276,7 +276,7 @@
       "name":"Kwame Nkrumah Mausoleum",
       "info":"Forts & Castles",
       "type":"picture",
-      "uri":"	https://s3.us-east-2.amazonaws.com/vibely2.0/images/kwamenkrumah.jpg",
+      "uri":"https://s3.us-east-2.amazonaws.com/vibely2.0/images/kwamenkrumah.jpg",
       "event":6,
       "active":true
 
@@ -300,10 +300,8 @@
       "active":true
 
     }
-
-
   ],
   "profile": {
-    "name": "vibely2"
+    "name": "typicode"
   }
 }
